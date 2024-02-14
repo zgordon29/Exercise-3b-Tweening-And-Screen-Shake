@@ -6,13 +6,12 @@ The second exercise adding "juicy" features to a simple brick-breaker game.
 
 ## To play
 
-Move the paddle using the W and A. Help the ball break all the bricks before you run out of lives.
+Move the paddle using the A and D. Help the ball break all the bricks before you run out of lives.
 
 
 ## Implementation
 
-Built using Unity 2022.3.17f
-
+Built using Unity 2022.3.17f1
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
@@ -26,4 +25,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Zachary Gordon
